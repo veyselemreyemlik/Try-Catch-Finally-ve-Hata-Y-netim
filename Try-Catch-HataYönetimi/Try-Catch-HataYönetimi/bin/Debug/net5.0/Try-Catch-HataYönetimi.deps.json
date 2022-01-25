@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Try-Catch-HataYönetimi/1.0.0": {
+        "runtime": {
+          "Try-Catch-HataYönetimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try-Catch-HataYönetimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

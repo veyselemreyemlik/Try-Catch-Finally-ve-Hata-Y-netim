@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgS1ZzZurAz5CksEB3NtryVWMLeybBtbl+lscTNqpoiq4e5wYjayBnxRZcyUCfc8QscTHhzZJOp4EEZwIn3+2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\Try-Catch-HataYönetimi\\Try-Catch-HataYönetimi\\Try-Catch-HataYönetimi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

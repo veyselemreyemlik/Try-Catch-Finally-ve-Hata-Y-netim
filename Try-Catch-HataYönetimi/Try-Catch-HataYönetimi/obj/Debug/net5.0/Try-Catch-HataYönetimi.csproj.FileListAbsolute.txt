@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\bin\Debug\net5.0\Try-Catch-HataYönetimi.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\bin\Debug\net5.0\Try-Catch-HataYönetimi.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\bin\Debug\net5.0\Try-Catch-HataYönetimi.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\bin\Debug\net5.0\Try-Catch-HataYönetimi.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\bin\Debug\net5.0\Try-Catch-HataYönetimi.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\bin\Debug\net5.0\ref\Try-Catch-HataYönetimi.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\bin\Debug\net5.0\Try-Catch-HataYönetimi.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\Try-Catch-HataYönetimi.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\Try-Catch-HataYönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\Try-Catch-HataYönetimi.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\Try-Catch-HataYönetimi.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\Try-Catch-HataYönetimi.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\Try-Catch-HataYönetimi.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\ref\Try-Catch-HataYönetimi.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\Try-Catch-HataYönetimi.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Try-Catch-HataYönetimi\Try-Catch-HataYönetimi\obj\Debug\net5.0\Try-Catch-HataYönetimi.genruntimeconfig.cache

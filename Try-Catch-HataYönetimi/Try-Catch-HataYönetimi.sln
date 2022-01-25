@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try-Catch-HataYönetimi", "Try-Catch-HataYönetimi\Try-Catch-HataYönetimi.csproj", "{3077E6C5-7B5B-405D-8AAF-86DD1A316653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3077E6C5-7B5B-405D-8AAF-86DD1A316653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3077E6C5-7B5B-405D-8AAF-86DD1A316653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3077E6C5-7B5B-405D-8AAF-86DD1A316653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3077E6C5-7B5B-405D-8AAF-86DD1A316653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B74C4B2C-B741-4C0E-95EE-49CDE73934E6}
+	EndGlobalSection
+EndGlobal
